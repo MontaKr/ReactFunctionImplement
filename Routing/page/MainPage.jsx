@@ -1,8 +1,11 @@
 import React from 'react'
+import MainWrap from '../component/mainPage/MainWrap'
 
 const MainPage = () => {
   return (
-    <div>MainPage</div>
+    <>
+      <MainWrap></MainWrap>
+    </>
   )
 }
 

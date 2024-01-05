@@ -1,8 +1,11 @@
 import React from 'react'
+import SecondWrap from '../component/secondPage/SecondWrap'
 
 const SecondPage = () => {
   return (
-    <div>SecondPage</div>
+    <>
+      <SecondWrap></SecondWrap>
+    </>
   )
 }
 

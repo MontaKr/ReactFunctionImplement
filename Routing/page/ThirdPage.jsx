@@ -1,8 +1,11 @@
 import React from 'react'
+import ThirdWrap from '../component/thirdPage/ThirdWrap'
 
 const ThirdPage = () => {
   return (
-    <div>ThirdPage</div>
+    <>
+      <ThirdWrap></ThirdWrap>
+    </>
   )
 }
 
