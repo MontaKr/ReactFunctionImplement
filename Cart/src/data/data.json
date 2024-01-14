@@ -1,0 +1,30 @@
+[
+  {
+      "name": "소불고기볶음밥 230g",
+      "content": "소불고기, 간장베이스, 간편조리",
+      "price": "1960",
+      "originalPrice": "2070",
+      "bargain": "5",
+      "url": "https://mall.ourhome.co.kr//attach_file/20220930/ECF4934776D942C3B3296F2BFD61E3CF.jpg"
+  },
+  {
+      "name": "[구씨반가] 전복 소갈비탕 600g",
+      "content": "진주명문가 구씨가문의 전통을 담은 전복 소갈비탕",
+      "price": "9580",
+      "originalPrice": "11980",
+      "bargain": "20",
+      "url": "https://mall.ourhome.co.kr//attach_file/20231226/B4CCDFBCFB884CB0A96E45AEA6EBAD40.jpg"
+  },
+  {
+      "name": "[온더고] 전주식 소고기 오색비빔밥 310g",
+      "content": "오색 가득 토핑 듬뿍, 소고기, 한국의 맛",
+      "price": "5980",
+      "url": "https://mall.ourhome.co.kr//attach_file/20230801/93CE10E54C6E49D1AD21BE99B8956BCC.jpg"
+  },
+  {
+      "name": "[온더고] 중화식 첨면장 불향 덮밥 290g",
+      "content": "첨면장, 짜장, 계란 후라이, 고추 잡채, 중화식",
+      "price": "6480",
+      "url": "https://mall.ourhome.co.kr//attach_file/20231101/5757B7683B3C42FB9F4280ACBD7E1485.jpg"
+  }
+]
